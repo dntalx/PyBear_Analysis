@@ -18,4 +18,5 @@ The graph below shows the total fares by city type over five months. We can see 
 ## Summary 
 
 Recommendations based on data:
+
 All three types of cities seemed to increase at the end of February and urban and rural cities increased again at the beginning of April. We can do more research to understand what caused these increases 
