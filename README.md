@@ -19,4 +19,9 @@ The graph below shows the total fares by city type over five months. We can see 
 
 Recommendations based on data:
 
-All three types of cities seemed to increase at the end of February and urban and rural cities increased again at the beginning of April. We can do more research to understand what caused these increases 
+All three types of cities seemed to increase at the end of February and urban and rural cities increased again at the beginning of April. We can do more research to understand what caused these increases and see if we can run some promotions during the months where the fares take a dip.
+
+I would also recommend looking further into rural and suburban cities to see if the demand is being met by the number of drivers both city types have. If it is not met, we could incentivise more people to become riders and that could lead to lower fares, higher revenue, and better costumer satisfaction. 
+
+Looking further into the previous point, we can also look into the ratio between the amount of active drivers and the amount of rides has any effect on revenue. This is especially significant in urban cities where the amount of drivers is significantly higher than the amount of rides. 
+
