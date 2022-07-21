@@ -9,7 +9,11 @@ The purpose of this analysis is to create a graph that shows the total weekly fa
 
 We can see that based on the city size, the number of rides, drivers, and fares goes up or down according to how big it is. On the other hand, the bigger the city, the smaller the average fare per ride and driver. We can see those numbers in the table below.
 
+![Alt text](https://github.com/dntalx/PyBear_Analysis/blob/main/Resources/Screen%20Shot%202022-07-20%20at%207.41.35%20PM.png)
+
 The graph below shows the total fares by city type over five months. We can see that urban and suburban cities saw an increase in total fares from the beginning of January to the end of the chart, at the end of April. Rural cities fluctuated a bit, but by the end of the 5 months we looked at the data, the total fares stayed about the same.
+
+![Alt text](https://github.com/dntalx/PyBear_Analysis/blob/main/Resources/Fig8.png)
 
 ## Summary 
 
